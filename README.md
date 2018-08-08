@@ -22,4 +22,16 @@ a editting-note application based on node.js,express,mongoDB
 ### 7.the item was removed
 ![](https://github.com/jzwnju/todoApp/blob/master/Screenshot/7.jpg)
 
-### 8.
+### 8.remove the item from the completed list
+![](https://github.com/jzwnju/todoApp/blob/master/Screenshot/8.jpg)
+![](https://github.com/jzwnju/todoApp/blob/master/Screenshot/9.jpg)
+
+## Dependencies
+    "jquery":"^3.2.1",<br>
+    "body-parser": "^1.18.3",<br>
+    "ejs": "^2.6.1",<br>
+    "express": "^4.16.3",<br>
+    "mongoose": "^5.2.7"<br>
+## Usage
+  node app.js<br>
+  open in the broswer by the URL: localhost:5000/todo
