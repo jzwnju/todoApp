@@ -26,6 +26,9 @@ a editting-note application based on node.js,express,mongoDB
 ![](https://github.com/jzwnju/todoApp/blob/master/Screenshot/8.jpg)
 ![](https://github.com/jzwnju/todoApp/blob/master/Screenshot/9.jpg)
 
+### 9. use cloud MongoDB,mLab
+![](https://github.com/jzwnju/todoApp/blob/master/Screenshot/0.jpg)
+
 ## Dependencies
     "jquery":"^3.2.1",<br>
     "body-parser": "^1.18.3",<br>
@@ -35,3 +38,5 @@ a editting-note application based on node.js,express,mongoDB
 ## Usage
   node app.js<br>
   open in the broswer by the URL: localhost:5000/todo
+  
+  
